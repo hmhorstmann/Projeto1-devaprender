@@ -1,1 +1,2 @@
 Olá, meu nome é Hiago
+Olá, eu sou uma nova linha e permito o cadastro de novos usuários
